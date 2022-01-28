@@ -1,0 +1,2 @@
+//  strings construction with variables
+
