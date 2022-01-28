@@ -9,7 +9,7 @@ const goodStr = 'Jake asks Finn, "Hey, let\'s go on an adventure?"';
 
 const sampleStr = 'Alan said, "Let\'s learn JavaScript".';
 
-const myStr = '<a href=\"http://www.example.com\" target=\"_blank\">Link</a>';
+const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 
 //  put string inside single quote for using double quote in string
 
