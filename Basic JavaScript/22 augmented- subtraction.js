@@ -1,11 +1,11 @@
-//  augmented subtraction
+//  augmented multiplication
 
-let a = 11;
-let b = 9;
-let c = 3;
+let a = 5;
+let b = 12;
+let c = 4.6;
 
-a -= 6;         // here 6 will be subtracted from the value of a
-b -= 15;        // here 15 will be subtracted from the value of b
-c -= 1;         // here 1 will be subtracted from the value of c
+a *= 5;         // here value of a will be multiplied by 5 
+b *= 3;         // here value of b will be multiplied by 3
+c *= 10;        // here value of c will be multiplied by 10
 
-//  '-='  assignment operator is used for augmented subtraction
+//  '*='  assignment operator is used for augmented multiplication
